@@ -1,3 +1,8 @@
+> **Abandoned repository.** This repository is no longer maintained.
+> For current PrestaShop module development, use the
+> [prestashop-module repository](https://github.com/dartmoon-io/prestashop-module).
+> The documentation below describes the abandoned implementation.
+
 # Prestashop Console
 Simple boilerplate to streamline the creation of custom PrestaShop console commands.
 

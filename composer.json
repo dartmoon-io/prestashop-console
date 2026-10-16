@@ -19,5 +19,6 @@
         "psr-4": {
             "Dartmoon\\Console\\": "src/"
         }
-    }
+    },
+    "abandoned": "dartmoon/prestashop-module-toolkit"
 }
